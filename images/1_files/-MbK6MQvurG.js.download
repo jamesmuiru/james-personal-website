@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("BillingPlatformContext",["react"],(function(a,b,c,d,e,f,g){"use strict";var h;a=h||d("react");b=a.createContext("desktop");c=b;g["default"]=c}),98);
+__d("FeedChevronFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("6418");b=d("FalcoLoggerInternal").create("feed_chevron",a);e=b;g["default"]=e}),98);

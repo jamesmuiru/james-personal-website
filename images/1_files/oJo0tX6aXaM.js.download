@@ -1,0 +1,5 @@
+;/*FB_PKG_DELIM*/
+
+__d("ProfileCometSingleEditDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="8436145753063113"}),null);
+__d("ProfileCometSingleEditDialogQuery$Parameters",["ProfileCometSingleEditDialogQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("ProfileCometSingleEditDialogQuery_facebookRelayOperation"),metadata:{},name:"ProfileCometSingleEditDialogQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("ProfileCometSingleEditDialog.entrypoint",["JSResourceForInteraction","ProfileCometSingleEditDialogQuery$Parameters","WebPixelRatio","qex"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){return{queries:{queryReference:{parameters:c("ProfileCometSingleEditDialogQuery$Parameters"),variables:{scale:d("WebPixelRatio").get(),shouldUseFXIMProfilePicEditor:(a=c("qex")._("967"))!=null?a:!1}}}}},root:c("JSResourceForInteraction")("ProfileCometSingleEditDialog.react").__setRef("ProfileCometSingleEditDialog.entrypoint")};g["default"]=a}),98);
